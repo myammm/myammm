@@ -2,6 +2,7 @@
 
 北海道在住iOSエンジニア。Swiftと、ユーザー体験を作り込むのが好きです。
 位置情報共有SNS **whoo** のiOS開発を、第1号社員としてサービス初期から担当しています（2023–）。
+**try! Swift Tokyo** オーガナイザー / **Sapporo.swift** 代表。
 
 📝 [インタビュー記事：新しいSNSのスタンダードを本気で作りたい](https://note.com/whoo_linq/n/n0d2d23f36495)
 
@@ -50,3 +51,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-00D6AA?style=flat&logo=airbnb&logoColor=white)
+
+## 🌏 Community
+
+- **[try! Swift Tokyo](https://tryswift.jp/)** — 世界中のSwiftデベロッパーが集まる国際カンファレンスの運営に参加
+- **[Sapporo.swift](https://japan-region-swift.connpass.com/event/393404/)** — `Japan-\(region).swift` の北海道コミュニティとして立ち上げ、代表として運営。2026年7月に初回イベントを開催

@@ -10,6 +10,7 @@
 - **位置情報×リアルタイム**：CoreLocation / MapKit によるリアルタイム位置共有、カスタムアノテーション・クラスタリングの描画最適化
 - **地理データ可視化**：訪問履歴を六角形タイルやメタボール表現で描画（計算処理の最適化・キャンセル対応を含む）
 - **OS連携機能**：Live Activity（APNsリモート更新）/ WidgetKit / Share Extension / StoreKit サブスクリプション課金の設計・実装
+- **画像解析**：Vision / Core ML によるカメラのリアルタイム被写体解析・切り抜きで、写真からスタンプを作れる機能を設計・実装
 - **デザイン×実装の越境**：立ち上げ期の Figma での UI デザイン制作、After Effects で自作したアニメーションの Lottie 組み込み、テーマカラー（着せ替え）の配色設計と切替機構の実装
 - **アーキテクチャ**：マルチモジュール構成の設計と、レガシーコードの段階的な改善・パフォーマンス改善
 - **一気通貫**：API 仕様の調整 → ドメイン設計 → UI 実装 → 段階リリース → App Store 審査対応まで
@@ -34,6 +35,8 @@
 ![ActivityKit](https://img.shields.io/badge/ActivityKit-000000?style=flat&logo=apple&logoColor=white)
 ![WidgetKit](https://img.shields.io/badge/WidgetKit-000000?style=flat&logo=apple&logoColor=white)
 ![StoreKit](https://img.shields.io/badge/StoreKit-000000?style=flat&logo=apple&logoColor=white)
+![Vision](https://img.shields.io/badge/Vision-000000?style=flat&logo=apple&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core%20ML-000000?style=flat&logo=apple&logoColor=white)
 ![App Extensions](https://img.shields.io/badge/App%20Extensions-000000?style=flat&logo=apple&logoColor=white)
 
 ### Infra & Tools
